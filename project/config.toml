@@ -7,3 +7,4 @@ width = 800
 height = 600
 fps = 60
 title = "PacMan"
+maze_path = "assets/data/maze.txt"
